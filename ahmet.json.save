@@ -1,3 +1,4 @@
+
 {
  "access_token":"ZDI3MGEyYzQtNmFlNS00NDNhLWFlNzAtZGVjNjE0MGU1OGZmZWNmZDEwN2ItYTU3",
  "expires_in":1209600,
@@ -5,6 +6,5 @@
  "refreshtokenexpires_in":7776000
  "kimlik":"myfile.json",
  "ad":"Ahmet",
- "soyad":"BOYLU"
- "okulu":"Nusaybin El-Biruni M.T.A.L" 
+ "soyad":"BOYLU" 
 }
